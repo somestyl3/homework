@@ -1,0 +1,4 @@
+x = int(input('enter number: '))
+x = str(x)
+print(max(x))
+print(min(x))
