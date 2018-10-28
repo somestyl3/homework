@@ -5,8 +5,8 @@ y = int(input('enter your number '))
 
 while True:
     if x == y:
-        print('this your number')
+        print('this is your number')
         break
     else:
-        print('this is not your number')
+        print('this is NOT your number')
         y = int(input('try again '))
